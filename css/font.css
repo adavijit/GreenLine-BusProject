@@ -1,0 +1,7 @@
+@font-face {
+    font-family: KoHo;
+    src: url(../assets/KoHo-Regular.ttf);
+}
+body {
+  font-family: 'KoHo', sans-serif;
+}

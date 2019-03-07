@@ -1,0 +1,16 @@
+.log-out
+{
+    background: transparent;
+    color: #9d9d9d;
+    border: none;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.log-in{
+    background: transparent;
+    border: none;
+    width: 116px;
+    height: 20px;
+
+}

@@ -1,0 +1,19 @@
+.log{
+	font-family: 'Source Serif Pro', serif;
+}
+.log .row{
+	padding:10px;
+	margin: 10px;
+}
+.logo{
+	font-size: 40px;
+	font-weight: bold;
+	
+}
+.option{
+	
+font-size: 15px;
+}
+.place{
+	border-radius: 7%;
+}
